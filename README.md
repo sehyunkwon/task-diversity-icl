@@ -30,7 +30,7 @@
     <sup>3</sup>KRAFTON AI&nbsp;&nbsp;&nbsp;
     <sup>4</sup>Princeton University&nbsp;&nbsp;&nbsp;
     <sup>5</sup>UCLA&nbsp;&nbsp;&nbsp;
-    <sup>*</sup>co-first author.&nbsp;&nbsp;&nbsp;
+    <sup>*</sup>co-first author&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align='center'>
