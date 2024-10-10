@@ -38,7 +38,7 @@
 </p>
 
 <p align='center' style="text-align:center; font-size:2.5em;">
-<b><a href="" target="_blank" style="text-decoration: none;">[Paper]</a></b>
+<b><a href="https://arxiv.org/abs/2410.05448" target="_blank" style="text-decoration: none;">[Paper]</a></b>
 </p>
 
 ## TL;DR
