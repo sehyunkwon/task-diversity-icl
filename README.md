@@ -26,7 +26,7 @@
     </a><sup>5</sup>
     <br><br>
     <sup>1</sup>Harvard University&nbsp;&nbsp;&nbsp;
-    <sup>2</sup>Seoul National University&nbsp;&nbsp;&nbsp;
+    <sup>2</sup>Samsung Research&nbsp;&nbsp;&nbsp;
     <sup>3</sup>KRAFTON AI&nbsp;&nbsp;&nbsp;
     <sup>4</sup>Princeton University&nbsp;&nbsp;&nbsp;
     <sup>5</sup>UCLA&nbsp;&nbsp;&nbsp;
@@ -50,8 +50,11 @@
 </div>
 
 
-## Notice
-The code will be released soon!
+## Training Code
+To reproduce our training setup, simply run the following script:
+
+```bash
+./run.sh
 
 ## Citation
 ```latex
