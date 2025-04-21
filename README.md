@@ -55,6 +55,7 @@ To reproduce our training setup, simply run the following script:
 
 ```bash
 ./run.sh
+```
 
 ## Citation
 ```latex
