@@ -1,0 +1,35 @@
+{
+    "family": "san",
+    "model_name": "gpt2",
+    "train_steps": 1000000,
+    "n_dims": 10,
+    "n_embd": 256,
+    "n_layer": 12,
+    "n_head": 8,
+    "learning_rate": 0.0001,
+    "B": 64,
+    "gpu": [
+        0
+    ],
+    "curriculum_points_start": 120,
+    "curriculum_points_end": 120,
+    "name": "mix2-leaky_relu_regression-quadratic_regression",
+    "task_list": [
+        {
+            "task": "leaky_relu_regression",
+            "data": "gaussian",
+            "batch_size": 32,
+            "mu": 0,
+            "scale": 1,
+            "exp_name": "leaky_relu_regression"
+        },
+        {
+            "task": "quadratic_regression",
+            "data": "gaussian",
+            "batch_size": 32,
+            "mu": 0,
+            "scale": 1,
+            "exp_name": "quadratic_regression"
+        }
+    ]
+}

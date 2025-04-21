@@ -1,0 +1,25 @@
+{ 
+    "family": "san",
+    "model_name": "gpt2",
+    "train_steps": 10000,
+    "n_dims": 10,
+    "n_embd": 256,
+    "n_layer": 12,
+    "n_head": 8,
+    "learning_rate": 0.0001,
+    "gpu": 0,
+    "name": "LeakyReLU",
+    "curriculum_points_start": 120,
+    "curriculum_points_end": 120,
+
+    "task_list": [
+        {
+            "task": "leaky_relu_regression",
+            "data": "gaussian",
+            "batch_size": 64,
+            "mu": 0,
+            "scale": 1,
+            "exp_name": "leaky_relu_regression"
+        }
+    ]
+}

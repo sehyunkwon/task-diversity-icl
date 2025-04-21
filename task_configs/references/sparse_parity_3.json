@@ -1,0 +1,23 @@
+{ 
+    "family": "san",
+    "model_name": "gpt2",
+    "train_steps": 1000000,
+    "n_dims": 10,
+    "n_embd": 256,
+    "n_layer": 12,
+    "n_head": 8,
+    "learning_rate": 0.0001,
+    "gpu": 0,
+    "name": "sarity_parity_10_3",
+
+    "task_list": [
+        {
+            "task": "sparse_parity",
+            "data": "boolean",
+            "k": 3,
+            "l": 120,
+            "batch_size": 64,
+            "exp_name": "sparse_parity_10_3"
+        }
+    ]
+}

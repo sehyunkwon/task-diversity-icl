@@ -1,0 +1,45 @@
+{
+    "family": "san",
+    "model_name": "gpt2",
+    "train_steps": 1000000,
+    "n_dims": 10,
+    "n_embd": 256,
+    "n_layer": 12,
+    "n_head": 8,
+    "learning_rate": 0.0001,
+    "B": 64,
+    "gpu": [
+        0
+    ],
+    "curriculum_points_start": 120,
+    "curriculum_points_end": 120,
+    "name": "mix3-quadratic_regression-sparse_linear_regression-sparse_parity_10_2",
+    "task_list": [
+        {
+            "task": "quadratic_regression",
+            "data": "gaussian",
+            "batch_size": 21,
+            "mu": 0,
+            "scale": 1,
+            "exp_name": "quadratic_regression"
+        },
+        {
+            "task": "sparse_linear_regression",
+            "data": "gaussian",
+            "batch_size": 22,
+            "mu": 0,
+            "scale": 1,
+            "sparsity": 3,
+            "valid_coords": 10,
+            "exp_name": "sparse_linear_regression"
+        },
+        {
+            "task": "sparse_parity",
+            "data": "boolean",
+            "k": 2,
+            "l": 45,
+            "batch_size": 21,
+            "exp_name": "sparse_parity_10_2"
+        }
+    ]
+}
