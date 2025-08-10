@@ -37,9 +37,14 @@
 <b><em>TMLR 2025</em></b><br>
 </p>
 
-<p align='center' style="text-align:center; font-size:2.5em;">
-<b><a href="[https://arxiv.org/abs/2410.05448](https://openreview.net/forum?id=7t5DzaJOdB)" target="_blank" style="text-decoration: none;">[Paper]</a></b>
+<p align="center" style="text-align:center; font-size:2.5em;">
+  <b>
+    <a href="https://openreview.net/forum?id=7t5DzaJOdB" target="_blank" style="text-decoration: none;">
+      [Paper]
+    </a>
+  </b>
 </p>
+
 
 ## TL;DR
  In this work, we reveal that training on **multiple diverse ICL tasks simultaneously shortens the loss plateaus**, making each task easier to learn. This finding is surprising as it contradicts the natural intuition that the combined complexity of multiple ICL tasks would lengthen the learning process, not shorten it.
