@@ -65,7 +65,7 @@ To reproduce our training setup, simply run the following script:
 ## Citation
 ```latex
 @inproceedings{taskdiversityicl2025,
-  title={Task Diversity Shortens the ICL Plateau},
+  title={Task Diversity Shortens the In-Context Learning Plateau},
   author={Jaeyeon Kim, Sehyun Kwon, Joo Young Choi, Jongho Park, Jaewoong Cho, Jason D. Lee, Ernest K. Ryu},
   booktitle={Transactions on Machine Learning Research},
   year={2025}
