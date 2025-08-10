@@ -27,8 +27,8 @@
     <br><br>
     <sup>1</sup>Harvard University&nbsp;&nbsp;&nbsp;
     <sup>2</sup>Samsung Research&nbsp;&nbsp;&nbsp;
-    <sup>3</sup>KRAFTON AI&nbsp;&nbsp;&nbsp;
-    <sup>4</sup>Princeton University&nbsp;&nbsp;&nbsp;
+    <sup>3</sup>KRAFTON&nbsp;&nbsp;&nbsp;
+    <sup>4</sup>UC Berkeley&nbsp;&nbsp;&nbsp;
     <sup>5</sup>UCLA&nbsp;&nbsp;&nbsp;
     <sup>*</sup>co-first author&nbsp;&nbsp;&nbsp;
 </p>
