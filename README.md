@@ -1,5 +1,5 @@
 <h1 align='center' style="text-align:center; font-weight:bold; font-size:2.0em; letter-spacing:2.0px;">
-    Task Diversity Shortens the ICL Plateau
+    Task Diversity Shortens the In-context Learning Plateau
 </h1>
 
 <p align='center' style="text-align:center; font-size:1.25em;">
@@ -34,11 +34,11 @@
 </p>
 
 <p align='center'>
-<b><em>Preprint</em></b><br>
+<b><em>TMLR 2025</em></b><br>
 </p>
 
 <p align='center' style="text-align:center; font-size:2.5em;">
-<b><a href="https://arxiv.org/abs/2410.05448" target="_blank" style="text-decoration: none;">[Paper]</a></b>
+<b><a href="[https://arxiv.org/abs/2410.05448](https://openreview.net/forum?id=7t5DzaJOdB)" target="_blank" style="text-decoration: none;">[Paper]</a></b>
 </p>
 
 ## TL;DR
