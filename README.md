@@ -11,7 +11,7 @@
     </a>*<sup>2</sup>&nbsp;,&nbsp;
     <a href="https://lthilnklover.github.io/" target="_blank" style="text-decoration: none; border-bottom: 1px solid;">
         Joo Young Choi
-    </a><sup>3</sup>&nbsp;,&nbsp;
+    </a><sup>3<sup>4</sup>&nbsp;,&nbsp;
     <a href="https://pages.cs.wisc.edu/~jjhpark/" target="_blank" style="text-decoration: none; border-bottom: 1px solid;">
         Jongho Park
     </a><sup>3</sup>&nbsp;,&nbsp; 
